@@ -1,5 +1,8 @@
+![Quantum](https://wallpapercave.com/wp/wp4123989.jpg)
+
 # 💫 About Me:
 <br>Hi 🤝, I'm Neetiman kar<br>
+☘️ I'm interested in Quantum Computing, Machine Learning and Blockchain Techonology
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord/jester) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/neetiman-kar-141992227/)
